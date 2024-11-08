@@ -3,7 +3,6 @@
 [![PyPI version](https://badge.fury.io/py/evallite.svg)](https://badge.fury.io/py/evallite)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Versions](https://img.shields.io/pypi/pyversions/evallite.svg)](https://pypi.org/project/evallite/)
-[![Downloads](https://pepy.tech/badge/evallite)](https://pepy.tech/project/evallite)
 
 An efficient, zero-cost LLM evaluation framework combining the simplicity of [DeepEval](https://github.com/confident-ai/deepeval) with the power of free Hugging Face models through [AILite](https://github.com/yourusername/ailite).
 
